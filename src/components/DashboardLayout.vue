@@ -1,7 +1,7 @@
 <template>
     <div class="dashboard">
         <v-navigation-drawer class="fullheight" width="256" permanent app fixed>
-                <v-list-item>
+                <v-list-item> 
                     <v-list-item-content>
                         <v-list-item-title class="title">
                             Juan Miguel
